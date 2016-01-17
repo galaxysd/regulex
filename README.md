@@ -3,7 +3,7 @@ Regulex
 
 JavaScript Regular Expression Parser & Visualizer.
 
-Online : http://jex.im/regulex/
+Online : [http://jex.im/regulex/](http://galaxysd.github.io/regulex)
 
 ###Features:
 - Written in pure JavaScript. No backend needed.
